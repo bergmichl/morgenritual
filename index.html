@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+  <title>Guten Morgen!</title>
+</head>
+<body>
+
+  <section id="page-1" class="page">
+    <h1>Lächle</h1>
+    <p>Neuer Tag, dankbar am Leben zu sein!</p>
+    <a href="#page-2"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-2" class="page">
+    <a href="#page-1"><i class="fas fa-chevron-left"></i></a>
+    <h1>Strecken</h1>
+    <p>Spür deinen Körper und fühl dich lebendig, nach 9 Stunden herumliegen!</p>
+    <a href="#page-3"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-3" class="page">
+    <a href="#page-2"><i class="fas fa-chevron-left"></i></a>
+    <h1>Atmen</h1>
+    <p>Nimm zwei tiefe Atemzüge!</p>
+    <a href="#page-4"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-4" class="page">
+    <a href="#page-3"><i class="fas fa-chevron-left"></i></a>
+    <h1>Dankbarkeit</h1>
+    <p>Wofür bist du dankbar in deinem Leben?</p>
+    <p></p>
+    <form id="gratitude">
+      <input type="checkbox" name="grat1" id="grat1">
+      <label for="grat1">Ich bin dankbar für...</label>
+      <input type="checkbox" name="grat2" id="grat2">
+      <label for="grat2">Ich bin dankbar für...</label>
+      <input type="checkbox" name="grat3" id="grat3">
+      <label for="grat3">Ich bin dankbar für...</label>
+    </form>
+    <a href="#page-5"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-5" class="page">
+    <a href="#page-4"><i class="fas fa-chevron-left"></i></a>
+    <h1>Ziele</h1>
+    <p>Einen erfüllten Zielbereich visualisieren!</p>
+    <img src="./img/dreieck.png" alt="Dreieck mit Zielbereichen">
+    <a href="#page-6"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-6" class="page">
+    <a href="#page-5"><i class="fas fa-chevron-left"></i></a>
+    <h1>Tag</h1>
+    <p>Was will ich heute mit meinem Tag machen?</p>
+    <a href="#page-7"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-7" class="page">
+    <a href="#page-6"><i class="fas fa-chevron-left"></i></a>
+    <h1>Reminder</h1>
+    <p></p>
+    <a href="#page-8"><i class="fas fa-chevron-right"></i></a>
+  </section>
+
+  <section id="page-8" class="page">
+    <a href="#page-7"><i class="fas fa-chevron-left"></i></a>
+    <h1>To do's:</h1>
+    <ul>
+      <li>Wasser trinken</li>
+      <li>Bewegen - 50 Liegestütz</li>
+    </ul>
+  </section>
+
+
+</body>
+</html>
