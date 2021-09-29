@@ -8,4 +8,4 @@
 
 ## Possible implementations: <hr>
 
-* Combined with weekly-app so the user gets forwarded from one site to the other after submit
+* Combined with weekly-app so the user gets forwarded from one site to the other, after submitting the weekly-app-form

@@ -4,30 +4,11 @@
   --page-2-bg: cornflowerblue;
   --page-3-bg: teal;
   --page-4-bg: slateblue;
-  --page-5-bg: white;
+  --page-5-bg: lightblue;
   --page-6-bg: darkolivegreen;
   --page-7-bg: darkslateblue;
   --page-8-bg: dodgerblue;
-}
-
-/* Global */
-*, *::after, *::before {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body{
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-  font-size: 20px;
-  /* overflow: hidden; */
-}
-
-.page {
-  height: 100vh;
-  text-align: center;
-  position: relative;
+  font-size: 25px;
 }
 
 #page-1 { background: var(--page-1-bg); }
@@ -39,15 +20,64 @@ body{
 #page-7 { background: var(--page-7-bg); }
 #page-8 { background: var(--page-8-bg); }
 
+/* Global & Desktop*/
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  overflow: hidden;
+}
+
+.page {
+  position: relative;
+  height: 100vh;
+  text-align: center;
+}
+
 h1 {
   font-weight: 500;
   line-height: 2rem;
   padding-top: 30vh;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
+  text-decoration: underline 2px;
+}
+h1.more-text {
+  padding-top: 20vh;
 }
 
 p {
-  line-height: 1.5rem;
+  line-height: 1.2rem;
+  padding-bottom: .3em;
+}
+
+a, a:visited, a:hover, a:active {
+  cursor: default;
+  color: #ddd;
+}
+a.dark, a.dark:visited, a.dark:hover, a.dark:active {
+  color: #333;
+}
+
+.go-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  height: 100vh;
+  width: 25vw;
+}
+.go-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline-block;
+  height: 100vh;
+  width: 25vw;
 }
 
 .fas.fa-chevron-left {
@@ -55,11 +85,43 @@ p {
   top: 50%;
   left: 1rem;
 }
-
 .fas.fa-chevron-right {
   position: absolute;
   top: 50%;
   right: 1rem;
 }
 
-/* Desktop */
+#gratitude {
+  margin-top: 1rem;
+}
+
+.form-group {
+  padding: .5rem 0;
+}
+
+img {
+  display: block;
+  max-height: 40vh;
+  margin: 1rem auto 0 auto;
+}
+
+ul {
+  display: inline-block;
+  text-align: start;
+}
+
+li {
+  padding-bottom: .5rem;
+}
+
+input[type="checkbox"]:checked {
+  visibility: hidden;
+}
+input[type="checkbox"]:checked + label::before {
+  content: '\01F64F '; /* Hex code with leading "\0" */
+  text-decoration: none;
+}
+
+
+
+/* Just change root font-size for media queries */
