@@ -54,6 +54,7 @@ h1.more-text {
 p {
   line-height: 1.2rem;
   padding-bottom: .3em;
+  margin: 0 1rem;
 }
 
 a, a:visited, a:hover, a:active {
@@ -84,12 +85,14 @@ a.dark, a.dark:visited, a.dark:hover, a.dark:active {
 .fas.fa-chevron-left {
   position: absolute;
   top: 50%;
-  left: 1rem;
+  left: 0;
+  opacity: .25;
 }
 .fas.fa-chevron-right {
   position: absolute;
   top: 50%;
-  right: 1rem;
+  right: 0;
+  opacity: .25;
 }
 
 #gratitude {
@@ -103,6 +106,7 @@ a.dark, a.dark:visited, a.dark:hover, a.dark:active {
 img {
   display: block;
   max-height: 40vh;
+  max-width: 100%;
   margin: 1rem auto 0 auto;
 }
 
@@ -128,6 +132,7 @@ input[type="checkbox"]:checked + label::before {
   margin: 0 auto;
 }
 
-
-
-/* Just change root font-size for media queries */
+/* Make sure it's higher than links for changing pages */
+input, label {
+  z-index: 1;
+}
