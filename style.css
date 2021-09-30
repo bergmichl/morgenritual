@@ -122,6 +122,11 @@ input[type="checkbox"]:checked + label::before {
   text-decoration: none;
 }
 
+#sentence {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
 
 
 /* Just change root font-size for media queries */
