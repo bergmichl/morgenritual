@@ -85,13 +85,13 @@ a.dark, a.dark:visited, a.dark:hover, a.dark:active {
 .fas.fa-chevron-left {
   position: absolute;
   top: 50%;
-  left: 0;
+  left: 5px;
   opacity: .25;
 }
 .fas.fa-chevron-right {
   position: absolute;
   top: 50%;
-  right: 0;
+  right: 5px;
   opacity: .25;
 }
 
@@ -135,4 +135,8 @@ input[type="checkbox"]:checked + label::before {
 /* Make sure it's higher than links for changing pages */
 input, label {
   z-index: 1;
+}
+
+.v-hidden {
+  visibility: hidden;
 }

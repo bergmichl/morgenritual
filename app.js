@@ -28,3 +28,14 @@ function showRandomSentence(e) {
 function randomNR(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
+
+// ----------------------
+// Blinking icons
+const icons = document.querySelectorAll('.fas');
+
+setInterval(function() {
+  icons.forEach((icon) => {
+    icon.classList.toggle('v-hidden');
+  });
+}, 1000);
+
