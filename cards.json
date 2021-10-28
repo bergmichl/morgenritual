@@ -17,7 +17,7 @@
   },
   {
     "id": 5,
-    "value": "Baue vor allem deine Stärken aus, anstatt die Schwächen auszumerzen!"
+    "value": "Baue vor allem deine Stärken aus, anstatt deine Schwächen auszumerzen!"
   },
   {
     "id": 6,
@@ -37,7 +37,7 @@
   },
   {
     "id": 10,
-    "value": "Konzentriere dich im Leben darauf was du willst, nicht was du nicht willst!"
+    "value": "Konzentriere dich im Leben darauf was du willst! Nicht, was du nicht willst!"
   },
   {
     "id": 11,
@@ -53,7 +53,7 @@
   },
   {
     "id": 14,
-    "value": "Selbstverwirklichung ist, sich zu fragen was die Welt braucht, und was davon ich ihr bieten kann!"
+    "value": "Selbstverwirklichung ist, sich zu fragen was die Welt braucht und was davon ich ihr bieten kann!"
   },
   {
     "id": 15,
@@ -97,7 +97,7 @@
   },
   {
     "id": 25,
-    "value": "Wenn du dich verändern willst, musst du gewillt sein, Ungemütlichkeit in kauf zu nehmen. Aber das tut nicht weh :) "
+    "value": "Wenn du dich verändern willst, musst du gewillt sein, Ungemütlichkeit in kauf zu nehmen. Aber das tut nicht weh!"
   },
   {
     "id": 26,
@@ -245,7 +245,7 @@
   },
   {
     "id": 62,
-    "value": "Bei wichtigen Entscheidungen immer mind. zwei Meinungen einholen & den zweiten nicht durch die Meinung des ersten beeinflussen!"
+    "value": "Bei wichtigen Entscheidungen immer mind. zwei Meinungen einholen & den Zweiten nicht durch die Meinung des Ersten beeinflussen!"
   },
   {
     "id": 63,
@@ -253,7 +253,7 @@
   },
   {
     "id": 64,
-    "value": "Wer nicht will findet Gründe, wer will findet Wege!"
+    "value": "Wer nicht will, findet Gründe. Wer will findet Wege!"
   },
   {
     "id": 65,
@@ -298,5 +298,33 @@
   {
     "id": 75,
     "value": "Der Grundstein meines Erfolgs ist es, meine drei Todfeinde - Unentschlossenheit, Zweifel und Furcht - zu erkennen und auszumerzen!"
+  },
+  {
+    "id": 76,
+    "value": "Ständig \"Ja\" zu sagen und \"Nein\" zu denken erzeugt Stress."
+  },
+  {
+    "id": 77,
+    "value": "Du musst etwas tun für dein Glück!"
+  },
+  {
+    "id": 78,
+    "value": "Ein Mensch, der glaubt, sein Leben nicht zu leben, wird auf Dauer krank."
+  },
+  {
+    "id": 79,
+    "value": "Dauerhafte negative Selbstbeurteilung kann einen Menschen fertig machen, so dass er sich schließlich gar nichts mehr zutraut."
+  },
+  {
+    "id": 80,
+    "value": "Wiederholte Handlungen vermitteln Struktur und reduzieren Angst!"
+  },
+  {
+    "id": 81,
+    "value": "Mein Verhalten kann ich AUF EIN ZIEL HIN verbessern!"
+  },
+  {
+    "id": 82,
+    "value": "Man kann einen Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu finden."
   }
 ]
