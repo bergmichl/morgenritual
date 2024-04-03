@@ -50,6 +50,7 @@ h1 {
 }
 h1.more-text {
   padding-top: 20vh;
+  margin-bottom: 2rem;
 }
 
 p {
