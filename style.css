@@ -9,6 +9,7 @@
   --page-7-bg: darkslateblue;
   --page-8-bg: dodgerblue;
   font-size: 25px;
+  --font-size-reminder: 20px;
 }
 
 #page-1 { background: var(--page-1-bg); }
@@ -128,6 +129,7 @@ input[type="checkbox"]:checked + label::before {
 }
 
 #sentence {
+  font-size: var(--font-size-reminder);
   max-width: 80%;
   margin: 0 auto;
 }
