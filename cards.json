@@ -5,7 +5,7 @@
   },
   {
     "id": 2,
-    "value": "It's better to look back in life and say: \"I can't believe I did that\", than to look back and say: \"I wish I did that...\"!"
+    "value": "Im Rückblick ist es besser (im Leben) zu sagen: \"Ich kann nicht glauben, dass ich das getan habe\", als mit Reue zu sagen: \"Ich wünschte ich hätte doch\"!"
   },
   {
     "id": 3,
@@ -105,7 +105,7 @@
   },
   {
     "id": 27,
-    "value": "Achte die Meinung des Anderen und sag ihm niemals er liegt falsch!"
+    "value": "Achte die Meinung der Anderen und sag ihnen niemals sie liegen falsch!"
   },
   {
     "id": 28,
@@ -141,7 +141,7 @@
   },
   {
     "id": 36,
-    "value": "Good deals never get advertised! (Vor allem beim investieren in Immobilien)"
+    "value": "Gute Deals werden nicht öffentlich beworben! (Vor allem beim investieren in Immobilien)"
   },
   {
     "id": 37,
@@ -153,11 +153,11 @@
   },
   {
     "id": 39,
-    "value": "Es gibt nur eine einzige Methode, um andere Menschen zu beeinflussen: Mit ihnen über das zu sprechen, was sie haben wollen, und ihnen zu zeigen, wie sie es bokommen können!"
+    "value": "Es gibt nur eine einzige Methode, um andere Menschen zu beeinflussen: Mit ihnen über das zu sprechen, was sie haben wollen, und ihnen zu zeigen, wie sie es bekommen können!"
   },
   {
     "id": 40,
-    "value": "Perfection is achieved, when there is nothing more to take away!"
+    "value": "Perfektion wird errreicht, wenn man nichts mehr wegnehmen/vereinfachen kann!"
   },
   {
     "id": 41,
@@ -389,7 +389,7 @@
   },
   {
     "id": 98,
-    "value": "Es ist nicht die Aufgabe anderer Menschen, dich zu lieben. Es ist deine!"
+    "value": "Es ist nicht die Aufgabe anderer Menschen, dich zu akzeptieren/lieben. Es ist deine!"
   },
   {
     "id": 99,
@@ -421,7 +421,7 @@
   },
   {
     "id": 106,
-    "value": "Suffer the pain of discipline or suffer the pain of regret."
+    "value": "Erleide den Schmerz von Disziplin oder erleide den Schmerz von Reue."
   },
   {
     "id": 107,
@@ -445,6 +445,42 @@
   },
   {
     "id": 112,
-    "value": "Streit präventiv verhindern: Zuhören ohne zu bewerten oder persönlich nehmen!"
+    "value": "Streit präventiv verhindern: Zuhören ohne zu bewerten, alles persönlich zu nehmen oder automatisch zu bewerten (in positiv/negativ)!"
+  },
+  {
+    "id": 113,
+    "value": "Ich kann nicht von anderen erwarten, dass sie sich alles merken, nur weil ich es 1x gesagt habe."
+  },
+  {
+    "id": 114,
+    "value": "Kinder gleiche Regeln einfordern, sonst fühlen sie sich ungerecht behandelt."
+  },
+  {
+    "id": 115,
+    "value": "Mit meiner Reaktion auf Menschen kann ich ihnen zeigen, wenn sie Grenzen überschreiten oder mich verärgern mit ihrem unerwünschten Verhalten."
+  },
+  {
+    "id": 116,
+    "value": "Meine Superkraft ist es, nach meinen Werten zu leben und mich daran zu orientieren, war mir gut tut! (Mutig, ehrlich, liebevoll)"
+  },
+  {
+    "id": 117,
+    "value": "Es gibt keine Experten, nur Meinungen. = Sind Biases und Denkfehlern genauso ausgeliefert."
+  },
+  {
+    "id": 118,
+    "value": "Ersteindruck von fremden Menschen: Sympathien können durch gemeinsame Themen entstehen, die man bei einer anderen Person hört und mit etw. oder jem. anderen assoziieren. Deshalb ist es trotzdem nicht automatisch ein guter/vernünftiger Mensch (Nur wegen gemeinsamer Interessen)"
+  },
+  {
+    "id": 119,
+    "value": "Das Leben wird nicht per Zufall besser, sondern durch (aktive) Veränderung."
+  },
+  {
+    "id": 120,
+    "value": "Sei bestimmt und selbstbewusst gegenüber anderen! (Trotzdem respektvoll)"
+  },
+  {
+    "id": 121,
+    "value": "Beim diskutieren den gegenseitigen Standpunkt anhören und dann in eigenen Worten wiedergeben."
   }
 ]
