@@ -1,5 +1,7 @@
 # What it's supposed to be:
 
-* Powerpoint-like presentation for after waking up
+* Note cards for a daily morning routine 
 
-* Horizontally split screen for navigating back = left, next = right
+* Horizontally split screen for navigating: back > left, forward > right
+
+* look is inspired by a Powerpoint-like presentation
