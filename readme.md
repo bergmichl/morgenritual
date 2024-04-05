@@ -1,3 +1,7 @@
+Hosted at:
+<br>
+https://morgenritual.netlify.app/
+
 # What it's supposed to be:
 
 * Note cards for a daily morning routine 
