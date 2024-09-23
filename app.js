@@ -1,4 +1,5 @@
 // Page Reminder with random sentence (cards.json) showing
+const sentenceEl = document.getElementById('sentence');
 
 window.addEventListener('load', showRandomSentence);
 
@@ -13,11 +14,19 @@ function showRandomSentence(e) {
     if(this.status === 200) {
       const sentences = JSON.parse(this.responseText);
       const num = randomNR(1, sentences.length);
-      const sentence = sentences[num].value;
+      let sentence = sentences[num].value;
       
-      document.getElementById('sentence').innerText = sentence;
+      sentenceEl.innerText = sentence;
+
+      if(sentence === "") {
+        sentenceEl.innerText = "Error: Empty string! Card Nr.: " + sentences[num];
+      }
+      if(sentence === null) {
+        sentenceEl.innerText = "Error: Variable = null! Card Nr.: " + sentences[num];
+      }
+
     } else {
-      console.log(`Something went wrong while loading Data from cards.json! Status-code: ${this.status}`);
+      sentenceEl.innerText = "Error loading Data from cards.json! Status-code:" + this.status;
     }
   }
 
