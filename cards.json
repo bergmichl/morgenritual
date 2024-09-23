@@ -461,7 +461,7 @@
   },
   {
     "id": 116,
-    "value": "Meine Superkraft ist es, nach meinen Werten zu leben und mich daran zu orientieren, war mir gut tut! (Mutig, ehrlich, liebevoll)"
+    "value": "Meine Superkraft ist es, nach meinen Werten zu leben und mich daran zu orientieren, was mir gut tut! (Mutig, ehrlich, liebevoll)"
   },
   {
     "id": 117,
@@ -469,7 +469,7 @@
   },
   {
     "id": 118,
-    "value": "Ersteindruck von fremden Menschen: Sympathien können durch gemeinsame Themen entstehen, die man bei einer anderen Person hört und mit etw. oder jem. anderen assoziieren. Deshalb ist es trotzdem nicht automatisch ein guter/vernünftiger Mensch (Nur wegen gemeinsamer Interessen)"
+    "value": "Ersteindruck von fremden Menschen: Sympathien können durch gemeinsame Themen entstehen, die man bei einer anderen Person hört und mit etw. oder jem. anderen assoziieren. Deshalb ist es trotzdem nicht automatisch ein vernünftiger Mensch (Nur wegen gemeinsamer Interessen)"
   },
   {
     "id": 119,
@@ -502,5 +502,21 @@
   {
     "id": 126,
     "value": "Positiv denken heißt nicht, stur optimistisch zu sein, sondern nicht ständig in negativen Ereignissen aus der Vergangenheit zu verharren und diese immer wieder zu durchleben."
+  },
+  {
+    "id": 127,
+    "value": "Steigere dich nicht in deine negativen Gedanken und Erinnerungen hinein."
+  },
+  {
+    "id": 128,
+    "value": "Sei kein Gefangener deiner Vergangenheit! Es war eine Erfahrung, kein lebenslanges Urteil."
+  },
+  {
+    "id": 129,
+    "value": "Wem soll das schlechte Leben dienen?"
+  },
+  {
+    "id": 130,
+    "value": "Im Leben kommt es nicht darauf an, gut Karten zu haben, sondern auch mit schlechten Karten zu spielen."
   }
 ]
