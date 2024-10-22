@@ -20,6 +20,7 @@
 #page-6 { background: var(--page-6-bg); }
 #page-7 { background: var(--page-7-bg); }
 #page-8 { background: var(--page-8-bg); }
+#page-9 { color: black; }
 
 /* Global & Desktop*/
 *, *::after, *::before {
@@ -50,6 +51,11 @@ h1 {
 }
 h1.more-text {
   padding-top: 20vh;
+  margin-bottom: 2rem;
+}
+
+h1.more-space {
+  padding-top: 5vh;
   margin-bottom: 2rem;
 }
 
@@ -110,6 +116,10 @@ img {
   max-height: 40vh;
   max-width: 100%;
   margin: 1rem auto 0 auto;
+}
+
+img.fill-screen {
+  max-height: 100%;
 }
 
 ul {
