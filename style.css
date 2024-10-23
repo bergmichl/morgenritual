@@ -120,6 +120,7 @@ img {
 
 img.fill-screen {
   max-height: 82vh;
+  margin: .5rem auto 0 auto;
 }
 
 ul {
