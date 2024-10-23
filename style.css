@@ -55,8 +55,8 @@ h1.more-text {
 }
 
 h1.more-space-downward {
-  padding-top: 3vh;
-  margin-bottom: 1rem;
+  padding-top: 2vh;
+  margin-bottom: .5rem;
 }
 
 p {
@@ -119,7 +119,7 @@ img {
 }
 
 img.fill-screen {
-  max-height: 85vh;
+  max-height: 82vh;
 }
 
 ul {
