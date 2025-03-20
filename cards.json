@@ -209,7 +209,7 @@
   },
   {
     "id": 53,
-    "value": "\"Ich mache dir nicht den geringsten Vorwruf aus deinen Ansichten. An deiner Stelle würde ich zweifellos genauso empfinden!\""
+    "value": "\"Ich mache dir nicht den geringsten Vorwurf aus deinen Ansichten. An deiner Stelle würde ich zweifellos genauso empfinden!\""
   },
   {
     "id": 54,
@@ -550,5 +550,9 @@
   {
     "id": 138,
     "value": "Intro/Extra, Abstrakt/Konkret, Fühl-/Denkentscheider, Organisiert/Locker"
+  },
+  {
+    "id": 139,
+    "value": "Sag dir selbst nur Sachen, die du auch deinem besten Freund oder Kind sagen würdest"
   }
 ]
