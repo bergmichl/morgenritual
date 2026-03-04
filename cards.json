@@ -461,7 +461,7 @@
   },
   {
     "id": 116,
-    "value": "Meine Superkraft ist es, nach meinen Werten zu leben und mich daran zu orientieren, was mir gut tut! (Mutig, ehrlich, liebevoll)"
+    "value": "Meine Superkraft ist es, nach meinen Werten zu leben und mich daran zu orientieren, was mir gut tut!"
   },
   {
     "id": 117,
@@ -517,7 +517,7 @@
   },
   {
     "id": 130,
-    "value": "Im Leben kommt es nicht darauf an, gut Karten zu haben, sondern auch mit schlechten Karten zu spielen."
+    "value": "Im Leben kommt es nicht darauf an, gute Karten zu haben, sondern auch mit schlechten Karten zu spielen."
   },
   {
     "id": 131,
@@ -557,7 +557,7 @@
   },
   {
     "id": 140,
-    "value": "Fokusier dich auf das gute im Leben anstatt das Schlechte."
+    "value": "Fokusier dich auf das gute im Leben anstatt das schlechte."
   },
   {
     "id": 141,
@@ -586,5 +586,9 @@
   {
     "id": 147,
     "value": "Als Investor bist du alleine für deine Taten und Ergebnisse verantwortlich. Du erlebst die Konsequenzen. Nicht Politiker, tippgebende Freunde, Familie oder Influencer. Lass dich also nicht beeinflussen oder dir dreinreden. Du brauchst ein durchdachtes System und musst die Einhaltung und Anpassung der Regeln umsetzen."
+  },
+  {
+    "id": 148,
+    "value": "Wenn du gehst, dann gehst du bewusst. Sei anwesend und im hier und jetzt."
   }
 ]
